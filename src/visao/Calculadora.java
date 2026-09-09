@@ -10,6 +10,7 @@ public class Calculadora extends JFrame {
 
         setVisible(true);
         setSize(232, 322);
+//        setUndecorated(true); // removendo barra do SO
         setLocationRelativeTo(null);
         setDefaultCloseOperation(DISPOSE_ON_CLOSE);
     }
